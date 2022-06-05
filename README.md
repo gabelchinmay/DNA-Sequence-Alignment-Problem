@@ -2,6 +2,9 @@
 Dynamic Programming + Divide &amp; Conquer approach to String Alignment Problem
 
 
+![image](https://user-images.githubusercontent.com/39965156/172039357-9f67659a-7664-4f30-b5e7-deba9c2e2b77.png)
+
+
 ![image](https://user-images.githubusercontent.com/39965156/172039197-29be6e76-9e34-4a64-a699-6e19bae8f4ad.png)
 Nature of the Graph
 Basic: Polynomial
