@@ -1,4 +1,4 @@
-# StringAlignmentProblem
+# StringAlignmentProblem (DNA Sequence)
 Dynamic Programming + Divide &amp; Conquer approach to String Alignment Problem
 
 
